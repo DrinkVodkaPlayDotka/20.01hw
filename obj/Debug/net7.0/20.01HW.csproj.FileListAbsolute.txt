@@ -1,0 +1,15 @@
+D:\C#\after\20.01HW\bin\Debug\net7.0\20.01HW.exe
+D:\C#\after\20.01HW\bin\Debug\net7.0\20.01HW.deps.json
+D:\C#\after\20.01HW\bin\Debug\net7.0\20.01HW.runtimeconfig.json
+D:\C#\after\20.01HW\bin\Debug\net7.0\20.01HW.dll
+D:\C#\after\20.01HW\bin\Debug\net7.0\20.01HW.pdb
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.csproj.AssemblyReference.cache
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.AssemblyInfoInputs.cache
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.AssemblyInfo.cs
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.csproj.CoreCompileInputs.cache
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.dll
+D:\C#\after\20.01HW\obj\Debug\net7.0\refint\20.01HW.dll
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.pdb
+D:\C#\after\20.01HW\obj\Debug\net7.0\20.01HW.genruntimeconfig.cache
+D:\C#\after\20.01HW\obj\Debug\net7.0\ref\20.01HW.dll
